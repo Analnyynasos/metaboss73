@@ -1,0 +1,72 @@
+{
+  "name": "entry #2564",
+  "symbol": "SENTRIES",
+  "description": "A host of Sentries living in Decentral City and running the Solana Network.",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/5aIshF1GQZTGXHGQIiIoDujzvnURNoF49Ebnro9T0r8?ext=png",
+  "attributes": [
+    {
+      "trait_type": "District",
+      "value": "East"
+    },
+    {
+      "trait_type": "Power",
+      "value": "0"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Red Fukurou"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Gray Grip"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Green Baseball Bat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Shade Rook"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shade Neko"
+    },
+    {
+      "trait_type": "Ornament",
+      "value": "Shade Lunae 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shade Rook"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber Herne"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Shade Gen"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
